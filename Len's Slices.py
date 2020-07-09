@@ -1,3 +1,5 @@
+#You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
+
 toppings = ['pepperoni', 'pinapple', 'cheese', 'sausage', 'olives', 'anchovies', 'mushrooms']
 prices = [2, 6, 1, 3, 2, 7, 2]
 
